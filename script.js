@@ -20,122 +20,122 @@ function calculate() {
   }
 }
 
-// v
-
-function appendValue(value) {
-  document.getElementById("display").value += value;
-}
-
-function clearDisplay() {
-  document.getElementById("display").value = "";
-}
-
-function deleteLast() {
-  let current = document.getElementById("display").value;
-  document.getElementById("display").value = current.slice(0, -1);
-}
-
-function calculate() {
-  try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    document.getElementById("display").value = "Error";
-  }
-}
 
 
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
 
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
 
-function appendValue(value) {
-  document.getElementById("display").value += value;
-}
+// function deleteLast() {
+//   let current = document.getElementById("display").value;
+//   document.getElementById("display").value = current.slice(0, -1);
+// }
 
-function clearDisplay() {
-  document.getElementById("display").value = "";
-}
-
-function deleteLast() {
-  let current = document.getElementById("display").value;
-  document.getElementById("display").value = current.slice(0, -1);
-}
-
-function calculate() {
-  try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    document.getElementById("display").value = "Error";
-  }
-}
+// function calculate() {
+//   try {
+//     let result = eval(document.getElementById("display").value);
+//     document.getElementById("display").value = result;
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
 
 
 
 
-function appendValue(value) {
-  document.getElementById("display").value += value;
-}
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
 
-function clearDisplay() {
-  document.getElementById("display").value = "";
-}
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
 
-function deleteLast() {
-  let current = document.getElementById("display").value;
-  document.getElementById("display").value = current.slice(0, -1);
-}
+// function deleteLast() {
+//   let current = document.getElementById("display").value;
+//   document.getElementById("display").value = current.slice(0, -1);
+// }
 
-function calculate() {
-  try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    document.getElementById("display").value = "Error";
-  }
-}
-
-
-function appendValue(value) {
-  document.getElementById("display").value += value;
-}
-
-function clearDisplay() {
-  document.getElementById("display").value = "";
-}
-
-function deleteLast() {
-  let current = document.getElementById("display").value;
-  document.getElementById("display").value = current.slice(0, -1);
-}
-
-function calculate() {
-  try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    document.getElementById("display").value = "Error";
-  }
-}
+// function calculate() {
+//   try {
+//     let result = eval(document.getElementById("display").value);
+//     document.getElementById("display").value = result;
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
 
 
-function appendValue(value) {
-  document.getElementById("display").value += value;
-}
 
-function clearDisplay() {
-  document.getElementById("display").value = "";
-}
 
-function deleteLast() {
-  let current = document.getElementById("display").value;
-  document.getElementById("display").value = current.slice(0, -1);
-}
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
 
-function calculate() {
-  try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    document.getElementById("display").value = "Error";
-  }
-}
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
+
+// function deleteLast() {
+//   let current = document.getElementById("display").value;
+//   document.getElementById("display").value = current.slice(0, -1);
+// }
+
+// function calculate() {
+//   try {
+//     let result = eval(document.getElementById("display").value);
+//     document.getElementById("display").value = result;
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
+
+
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
+
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
+
+// function deleteLast() {
+//   let current = document.getElementById("display").value;
+//   document.getElementById("display").value = current.slice(0, -1);
+// }
+
+// function calculate() {
+//   try {
+//     let result = eval(document.getElementById("display").value);
+//     document.getElementById("display").value = result;
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
+
+
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
+
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
+
+// function deleteLast() {
+//   let current = document.getElementById("display").value;
+//   document.getElementById("display").value = current.slice(0, -1);
+// }
+
+// function calculate() {
+//   try {
+//     let result = eval(document.getElementById("display").value);
+//     document.getElementById("display").value = result;
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
